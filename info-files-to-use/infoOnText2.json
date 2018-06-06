@@ -1,0 +1,37 @@
+{
+    "_instructions:": "For other_sizes pick these options: Small, Medium, Large, XLarge in order of preference",
+    "_additional_instructions": "Leave blank if no size is required",
+
+    "bucket_hat_size": "You are M/L",
+    "side_note": "When putting false info, supreme changes credit_card_month to 04 once incorrect",
+
+    "size_info": {
+    	"jackets_size": ["Medium", "Large"],
+    	"shirts_size": ["Medium", "Large"],
+    	"tops-sweaters_size": ["Large", "Medium"],
+    	"sweatshirts_size": ["Large", "Medium"],
+    	"pants_size": ["30", "Medium"],
+    	"t-shirts_size": ["Large", "Medium"],
+    	"hats_size": [],
+  		"bags_size": [],
+  		"accessories_size": [],
+  		"skate_size": [],
+  		"shoes_size": [],
+  		"random_url_size": ["9", "Large"]
+    },
+
+    "checkout_info": {
+        "name": "John Doe",
+        "email": "johnedoe@gmail.com",
+        "tel": "1234567890",
+        "address": "234 College Way",
+        "zip": "92154",
+        "city": "San Diego",
+        "state": "CA",
+        "number": "1234567812345678",
+        "exp. date_month": "01",
+        "exp. date_year": "2019",
+        "CVV": "111"
+    }
+
+}
